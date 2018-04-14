@@ -42,8 +42,6 @@
                                 $word = explode('si', $_GET['si']);
                                 echo '<strong>'.$word[1].$word[0].'</strong>';
                             }
-
-                            
                         }
                         ?>
                     </div>
