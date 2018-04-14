@@ -1,7 +1,7 @@
-# Si Lang Decryptor
+# Si Lang Transalator
 
 
-Si Lang Decryptor is simple web for translating SI-Lang to Bahasa.
+Si Lang Transalator is simple web for translating SI-Lang to Bahasa.
 
 Insert your si-lang into textarea and press button
 
